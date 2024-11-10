@@ -18,6 +18,7 @@
 		}
 		else{
 			pw.println("<h2 align='center'>Incorrect Username or Password!!</h2><br/><br/>");
+			pw.println("<a href='index.jsp'>Registration Page</a>");
 		}
 	%>
 </body>
